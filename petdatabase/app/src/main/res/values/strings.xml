@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">The Pet Zone</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="options">
+        <item>Dogs</item>
+        <item>Pet Food</item>
+    </string-array>
+
+    <string name="title_activity_dog_category">DogsCategoryActivity</string>
+    <string name="title_activity_dogs">DogsActivity</string>
+</resources>
